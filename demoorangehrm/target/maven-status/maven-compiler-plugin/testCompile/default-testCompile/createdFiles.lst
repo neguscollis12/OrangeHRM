@@ -1,0 +1,5 @@
+com/qa/orangehrm/pages/LoginPage.class
+com/qa/orangehrm/tests/LoginTests.class
+com/qa/orangehrm/tests/BaseTests.class
+com/qa/orangehrm/utilities/PropertyReader.class
+com/qa/orangehrm/utilities/DriverUtilities.class
