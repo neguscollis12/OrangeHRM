@@ -11,7 +11,7 @@ public class LoginTests extends BaseTests{
     LoginPage loginPage = new LoginPage();
 
    
-    @Test(groups = {"Login.titlePage"})
+    @Test(groups = {"Login.titlePages"})
     public void testPageTitle(){
 
         String pageTitle = loginPage.getPageTitle();
