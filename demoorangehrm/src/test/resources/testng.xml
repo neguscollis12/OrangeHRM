@@ -4,7 +4,7 @@
   <test name="Login Tests">
   <groups>
     <run>
-      <include name="Login.login"> </include>
+      <include name="Login.*"> </include>
     </run>
   </groups>
 
