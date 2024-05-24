@@ -24,7 +24,7 @@ public class LoginTests extends BaseTests{
            loginPage.getLogoImg();
     }
 
-    @Test(groups = {"Login.login"})
+    @Test(groups = {"Login.logins"})
     public void testLoginFeature(){
             loginPage.loginUser();
     }
